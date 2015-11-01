@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-""" Script to quickly parse cable modem pages and return the data in json """
+""" Script to quickly parse Motorola SB6120 cable modem pages and return the data in json """
 __author__ = 'qry3vavna'
 __version__ = '0.1'
 
